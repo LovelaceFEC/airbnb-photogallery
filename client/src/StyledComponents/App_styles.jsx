@@ -8,8 +8,6 @@ import styled from 'styled-components';
 const Wrap = styled.div`
   width: 100vw;
   height: 155vh;
-  position:absolute;
-  display: grid;
 
 
 `
